@@ -7,9 +7,11 @@ Dana, a writer, has wanted to provide a webpage that allows users to search thro
 ## Search Results
 ####
 Upon accessing the webpage for UFO encounters, a user will be greeted with the title, a small blurb from Dana, filtering options, and a table of all the UFO encounters currently housed in a data JavaScript file. Once the user has read over the blurb about UFO encounters, the only other interactive element on the page are the input fields for the filtering criteria. If someone would like to look through the data for a specific location, such as Arizona, United States, they would simply need to type in the state and country name in the corresponding blank fields. In this example, the user has also selected an additional search criteria, 1/1/2010. 
+####
 ![first step](https://github.com/victoriaguille/UFOs/blob/main/static/images/first%20step.PNG)
 ####
 As the user begins typing in new search terms, the table will begin filtering. However, the user may need to also select the enter button when all of the search terms are typed. This particular search request only brings up a single encounter, as shown below. But, the user can easily make changes or select different filtering terms by either refreshing the page or selecting the initial title of the webpage at the top of the window. Generally, there are very few steps to interact with the table of data and it is fairly straightforward. Any potential visitor to the webpage would have little issue interacting with the UFO data. 
+####
 ![search result](https://github.com/victoriaguille/UFOs/blob/main/static/images/search%20result.PNG)
 
 ## Summary
